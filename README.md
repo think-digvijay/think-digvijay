@@ -17,3 +17,23 @@
 - 😄 Pronouns: He, His, Him 👦
 - ⚡ Fun fact: I also play some instruments so ... jam sessions 🎸
 
+
+### Languages and Tools:
+<div display="flex">
+  <img src="https://img.shields.io/badge/C++%20-%231572B6.svg?&style=for-the-badge&logo=-C++-&logoColor=white">
+  <img src="https://img.shields.io/badge/java%20-%23F05033.svg?&style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/python%20-%231877F2.svg?&style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter%20-%23F05033.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/atom%20-%23F05033.svg?&style=for-the-badge&logo=atom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VScode%20-%23121011.svg?&style=for-the-badge&logo=VScode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/markdown-%231877F2.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+</div>
+<br/>
+
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=think-digvijay&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
