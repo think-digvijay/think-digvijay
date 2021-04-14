@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/atom%20-%23F05033.svg?&style=for-the-badge&logo=atom&logoColor=white"/>
   <img src="https://img.shields.io/badge/VScode%20-%23121011.svg?&style=for-the-badge&logo=VScode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/markdown-%231877F2.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/markdown-%231877F2.svg?&style=for-the-badge&logo=markdown&logoColor=white" /> 
 </div>
 <br/>
 
