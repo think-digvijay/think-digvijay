@@ -10,10 +10,10 @@
 
 - 🏦 I’m the founder of Innovators Hub 💡 and Inew Technologies 🏢
 - 👨‍💻 I’m currently working on Machine Learning & Deep Learning (Cause ROBOTS) 🤖
-- 👨‍🎓I’m also a student so (damn Assignments) 
-- 👨🏻‍🤝‍👨🏻 I’m looking to collaborate on any project related to ML/DL/DS 
-- 💬 Ask me about Innovation & Technology and will AI kill us all?
-- 📫 How to reach me: https://www.think-digvijay.com
-- 😄 Pronouns: He, His, Him
+- 👨‍🎓I’m also a student so (damn Assignments) 📃
+- 👨🏻‍🤝‍👨🏻 I’m looking to collaborate on any project related to ML/DL/DS 🤖
+- 💬 Ask me about Innovation & Technology and will AI kill us all? ⚙
+- 📫 How to reach me: https://www.think-digvijay.com 🕸
+- 😄 Pronouns: He, His, Him 👦
 - ⚡ Fun fact: I also play some instruments so ... jam sessions 🎸
 
