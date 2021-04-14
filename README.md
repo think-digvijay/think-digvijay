@@ -37,3 +37,14 @@
   <summary>:zap: Usage</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=think-digvijay&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
+
+### Machine:
+<div display="flex">
+  <img src="https://img.shields.io/badge/windows%20GL63%208RC-%231DA1F2.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/legion%20GL63%208RC-%23dd4814.svg?&style=for-the-badge&logo=legion&logoColor=white">
+  <img src="https://img.shields.io/badge/intel-core%20i5%209th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-GeForce%20gtx1650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</div>
+<br>
+
+
