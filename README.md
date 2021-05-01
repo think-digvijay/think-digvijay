@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/atom%20-%23F05033.svg?&style=for-the-badge&logo=atom&logoColor=white"/>
   <img src="https://img.shields.io/badge/VScode%20-%23121011.svg?&style=for-the-badge&logo=VScode&logoColor=white"/>
   <img src="https://img.shields.io/badge/markdown-%231877F2.svg?&style=for-the-badge&logo=markdown&logoColor=white" /> 
-</div>
+</div> 
 
 <div display="flex">
   <img src="https://img.shields.io/badge/TensorFlow%20-%231572B6.svg?&style=for-the-badge&logo=&logoColor=white">
